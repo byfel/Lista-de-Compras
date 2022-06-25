@@ -48,14 +48,14 @@
     <property name="geometry">
      <rect>
       <x>150</x>
-      <y>30</y>
+      <y>59</y>
       <width>701</width>
-      <height>800</height>
+      <height>771</height>
      </rect>
     </property>
     <column>
      <property name="text">
-      <string>ID</string>
+      <string>CODIGO PRODUTO</string>
      </property>
     </column>
     <column>
@@ -112,7 +112,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>Editar</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_3">
@@ -125,7 +125,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>Excluir</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_4">
